@@ -1,0 +1,6 @@
+
+Hi i need to seriously understand more on how to prevent dumping to memory
+
+of a packed .Net exe.Kindly contact me on the id below
+
+my skype id : Azonto14
